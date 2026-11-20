@@ -1,0 +1,13 @@
+.venv/
+.mlflow-ui/
+mlruns/
+.dvc/cache/
+.dvc/tmp/
+__pycache__/
+.pytest_cache/
+.git/
+.vscode/
+tests/
+*.pyc
+*.db
+.env

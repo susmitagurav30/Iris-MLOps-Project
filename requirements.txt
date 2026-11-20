@@ -1,11 +1,6 @@
-
-numpy
-pandas
-scikit-learn
-mlflow
-dvc
-fastapi
-uvicorn[standard]
-joblib
-pytest
-httpx
+fastapi==0.165.0
+uvicorn==0.54.0
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.9.1
+joblib==1.6.0
