@@ -1,0 +1,6 @@
+{
+    "algorithm": "Random Forest",
+    "accuracy": 0.9333333333333333,
+    "training_samples": 120,
+    "testing_samples": 30
+}

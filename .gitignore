@@ -1,0 +1,10 @@
+.venv/
+.mlflow-ui/
+.vscode/
+__pycache__/
+*.py[cod]
+mlruns/
+mlflow.db
+sqlalchemy_backup/
+.pytest_cache/
+.env
