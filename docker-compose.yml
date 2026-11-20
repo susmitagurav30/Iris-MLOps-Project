@@ -1,0 +1,7 @@
+services:
+  iris-api:
+    image: iris-mlops-api:latest
+    container_name: iris-container
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
